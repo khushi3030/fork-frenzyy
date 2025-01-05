@@ -1,3 +1,6 @@
+The live link for the hosted site is : https://fork-frenzyy-giez.vercel.app
+
+
 ## Food Ordering App
 
 ### Features:
