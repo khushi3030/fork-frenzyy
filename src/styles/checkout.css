@@ -1,0 +1,37 @@
+.checkoutMessage {
+  width: fit-content;
+  margin: 1rem auto;
+}
+
+.checkoutIcon {
+  width: 2rem;
+  color: #4bb543;
+  height: 2rem;
+}
+
+.contactIcon {
+  width: 2rem;
+  color: black;
+  height: 2rem;
+}
+
+.creator {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.checkoutTitleContainer {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.7rem;
+}
+
+.bg {
+  background: bisque;
+}
+
+@media only screen and (max-width: 480px) {
+  .checkoutMessage {
+    margin: 1rem 1rem;
+  }
+}
